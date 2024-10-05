@@ -1,0 +1,27 @@
+archery
+baseball
+cricket
+darts
+football
+golf
+hockey
+ice skating
+judo
+karate
+polo
+swimming
+tennis
+volley ball
+wrestling
+zumba
+cycling
+boxing
+bull fighting
+badminton
+chess
+diving
+high jump
+horse racing
+javelin throw
+
+
