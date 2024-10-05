@@ -1,5 +1,5 @@
 # Hangman_Game
-1. This is a simple game created with python and tkinter GUI
+1. A simple hangman game created with python and tkinter GUI
 2. Hangman is a paper and pencil guessing game for two or more players.
 3. One player(chooser) thinks or choose a secret word.
 4. Another player(guesser) attempts to guess the word by guessing one letter at a time.
